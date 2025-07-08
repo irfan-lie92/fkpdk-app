@@ -1,8 +1,7 @@
 Gunakan IDE Favorit Anda
 
-Jika Anda ingin bekerja secara lokal menggunakan IDE sendiri, Anda dapat clone repositori ini dan mendorong (push) perubahan Anda. Perubahan yang telah dipush juga akan terlihat di Lovable.
-
-Syarat utama adalah Anda harus memiliki Node.js & npm yang sudah terinstal – instalasi menggunakan nvm
+Jika Anda ingin bekerja secara lokal menggunakan IDE sendiri, Anda dapat clone repositori ini dan mendorong (push) perubahan Anda. 
+Syarat utama adalah Anda harus memiliki Node.js & npm yang sudah terinstal – instalasi menggunakan nvm atau pnpm
 
 Ikuti langkah-langkah berikut:
 

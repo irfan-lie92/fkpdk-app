@@ -7,10 +7,10 @@ Syarat utama adalah Anda harus memiliki Node.js & npm yang sudah terinstal – i
 Ikuti langkah-langkah berikut:
 
 # Langkah 1: Clone repositori menggunakan URL Git proyek.
-git clone https://github.com/irfan-lie92/desa-forum-komunikasi-plus.git
+git clone https://github.com/irfan-lie92/fkpdk-app.git
 
 # Langkah 2: Masuk ke direktori proyek.
-cd desa-forum-komunikasi-plus
+cd fkpdk-app
 
 # Langkah 3: Instal semua dependensi yang dibutuhkan.
 npm i
